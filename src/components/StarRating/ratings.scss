@@ -1,0 +1,15 @@
+
+.blankStar {
+    fill: #e0e0e0;
+}
+.selectedStar {
+    fill: #ffc107;
+}
+.blankStar , .selectedStar {
+    cursor: pointer;
+}
+
+.starContainer {
+    display: flex;
+    flex-direction: row;
+}
